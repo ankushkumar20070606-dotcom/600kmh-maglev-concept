@@ -112,7 +112,7 @@ a = 3,000,000 / 300,000
 
 a ≈ 10 m/s²
 
-7. Regenerative Braking
+## 7. Regenerative Braking
 Electromagnetic braking could potentially convert part of the train's kinetic energy into electrical energy.
 Conceptually:
 
